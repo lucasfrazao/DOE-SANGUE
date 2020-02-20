@@ -1,0 +1,74 @@
+/* 
+GLOBAL
+*/
+
+html,body {
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+
+    height: 100vh;
+}
+
+/* TITULOS */
+header h1, main h2 {
+    margin-bottom: 70px;
+}
+
+/* ESTRUTURA*/
+header, main, footer {
+    /*alinhamento de texto*/
+    text-align: center;
+}
+
+header, .form, main{
+    /* espaçamentos com margin*/
+    margin: 0 auto 70px auto;
+    
+    /* limtes dos elementos na página */
+    width: 90%;
+    max-width: 500px;
+}
+
+
+/*FORM*/
+.form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+form input,
+form button {
+
+    /*largura*/
+    width: 100%;
+
+    /*espaçamentos*/
+    margin-bottom: 4px;
+
+    /* corrigindo comportamento padrão css*/
+    box-sizing: border-box;
+
+    /*preenchimento*/
+    padding: 8px 16px;
+
+    /*bordas*/
+    border-radius: 4px;
+    border: 1px red solid;
+
+
+}
+
+
+/* MAIN*/
+main .donors {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+footer {
+    margin-top: auto;
+}
