@@ -5,7 +5,6 @@
 Essa é minha primeira aplicação web que foi desenvolvida durante os estudos na Maratona Dev da Rocketseat e tem como objetivo facilitar e captar voluntários para doação de sangue.
 
 **Tecnologias:**
-* JavaScript
 * CSS
 * HTML
 
