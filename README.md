@@ -8,6 +8,9 @@ Essa é minha primeira aplicação web que foi desenvolvida durante os estudos n
 * CSS
 * HTML
 
+Abaixo uma imagem da aplicação para melhor visualização:
+
+![](doe-sangue.PNG)
 
 Você tem sugestões, dicas ou criticas? Por favor, entre em contato comigo:
  [Meu Linkedin](https://www.linkedin.com/in/lucas-fraz%C3%A3o/)
