@@ -2,7 +2,7 @@
 
 ![](logo.png)
 
-Essa é minha primeira aplicação web que foi desenvolvida durante os estudos na Maratona Dev da Rocketseat e tem como objetivo facilitar e captar voluntários para doação de sangue.
+Essa é uma aplicação web que está sendo desenvolvida com objetivo de facilitar e captar voluntários para doação de sangue.
 
 **Tecnologias:**
 * CSS
