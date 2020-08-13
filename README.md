@@ -12,11 +12,8 @@
 
 ---
 ## 🚀 Tecnologias
-* JavaScript
-* Html
+* HTML
 * CSS
-* Node.js
-* SQL
 
 ## 🤔 Como contribuir
 Se quiser contribuir com esse projeto, seja corrigindo problemas, adicionando comentários ou melhorando a documentação, você pode seguir os passos abaixo:
