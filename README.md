@@ -4,7 +4,7 @@
 
 <p align="center"> <strong>Doe Sangue</strong> é uma página web desenvolvida com objetivo de facilitar e captar voluntários para doação de sangue. </p>
 
-<p align="center"> Abaixo uma imagem da aplicação para melhor visualização: </p>
+<p align="center"> Você pode visualizar a página na imagem abaixo ou clicando <a href="doe-sangue.netlify.app" title="doe-sangue">aqui.</p>
 
 <h1 align="center">
   <img alt="Layout Página Principal" src="layout.png" />
