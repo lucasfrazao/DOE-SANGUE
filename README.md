@@ -10,7 +10,6 @@
   <img alt="Layout Página Principal" src="layout.png" />
 </h1> 
 
----
 ## 🚀 Tecnologias
 * HTML
 * CSS
